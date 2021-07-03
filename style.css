@@ -104,7 +104,7 @@ section img#topic
 }
 #eva1 {
     background-image: url("img/eva1.png");
-    min-height: 1250px;
+    min-height: 500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -112,7 +112,7 @@ section img#topic
 }
 #eva0 {
     background-image: url("img/eva0.png");
-    min-height: 1250px;
+    min-height: 500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -120,7 +120,7 @@ section img#topic
 }
 #eva2 {
     background-image: url("img/eva2.png");
-    min-height: 1250px;
+    min-height: 500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -128,7 +128,7 @@ section img#topic
 }
 #eva5 {
     background-image: url("img/eva5.png");
-    min-height: 1250px;
+    min-height: 500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
