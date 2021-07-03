@@ -134,3 +134,19 @@ section img#topic
     background-repeat: no-repeat;
     background-size: cover;
 }
+#pika {
+    background-image: url("img/pika.png");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#five {
+    background-image: url("img/five.png");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
