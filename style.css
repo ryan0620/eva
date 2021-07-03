@@ -102,9 +102,13 @@ section img#topic
   font-size: 1.5em;
   color: #fff ;
 }
+input
+{
+  font-size: 1.15em;
+}
 #eva1 {
     background-image: url("img/eva1.png");
-    min-height: 500px;
+    min-height: 750px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -112,7 +116,7 @@ section img#topic
 }
 #eva0 {
     background-image: url("img/eva0.png");
-    min-height: 500px;
+    min-height: 750px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -120,7 +124,7 @@ section img#topic
 }
 #eva2 {
     background-image: url("img/eva2.png");
-    min-height: 500px;
+    min-height: 750px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -128,7 +132,7 @@ section img#topic
 }
 #eva5 {
     background-image: url("img/eva5.png");
-    min-height: 500px;
+    min-height: 750px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -136,7 +140,7 @@ section img#topic
 }
 #pika {
     background-image: url("img/pika.png");
-    min-height: 500px;
+    min-height: 750px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -144,7 +148,23 @@ section img#topic
 }
 #five {
     background-image: url("img/five.png");
-    min-height: 500px;
+    min-height: 750px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#crab {
+    background-image: url("img/crab.png");
+    min-height: 750px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#ui {
+    background-image: url("img/ui.png");
+    min-height: 750px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
